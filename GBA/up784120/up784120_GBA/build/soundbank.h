@@ -1,0 +1,14 @@
+#define MOD_CT5PROGC_SND	0
+#define MOD_DESTROY	1
+#define MOD_ENDGAME	2
+#define MOD_ENGINE	3
+#define MOD_HIT	4
+#define MOD_LEVEL_LOOP	5
+#define MOD_LOOP_3	6
+#define MOD_MENU	7
+#define MOD_SHOOT	8
+#define MOD_SHOOT2	9
+#define MOD_WIN	10
+#define MSL_NSONGS	11
+#define MSL_NSAMPS	341
+#define MSL_BANKSIZE	352

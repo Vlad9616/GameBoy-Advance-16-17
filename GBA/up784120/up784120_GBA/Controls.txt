@@ -1,0 +1,4 @@
+UpKey-move up
+DownKey-move down
+z-fire/start game
+x-restart game when level is completed or player died
